@@ -8,7 +8,7 @@ This system automatically monitors and controls key greenhouse parameters to red
 ## 📌 Project Overview
 
 In traditional greenhouses, **temperature, humidity, irrigation, and lighting** are often managed manually.  
-This can lead to delays, human errors, and inconsistent growing conditions.
+This can lead to delays, human errors, and inconsistent growing conditions. 
 
 Our **Greenhouse Automation System** uses sensors and automated control logic to continuously monitor environmental conditions and maintain optimal parameters **in real time**, ensuring healthier plant growth with minimal human intervention.
 

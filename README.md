@@ -1,5 +1,8 @@
 # Greenhouse Automation using Arduino
 
+<img width="1200" height="400" alt="Untitled design" src="https://github.com/user-attachments/assets/c69dd414-4990-4c2c-9b3b-ce0825b551b6" />
+
+
 An Arduino-based Greenhouse Automation System developed as part of the ECE-279 course project.  
 This system automatically monitors and controls key greenhouse parameters to reduce manual effort and improve plant growth efficiency.
 
